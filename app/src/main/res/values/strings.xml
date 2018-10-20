@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TUGAS UTS</string>
+    <string name="makanan">makanan</string>
+    <string name="minuman">minuman</string>
+    <string name="app_user">Pengguna</string>
+    <string name="title_activity_makanan">Makanan</string>
+    <string name="title_activity_minuman">Minuman</string>
+</resources>

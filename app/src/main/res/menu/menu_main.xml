@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gmail.imailanyar123.buatmenu.MainActivity">
+    <item
+        android:id="@+id/makanan"
+        android:orderInCategory="20"
+        android:title="makanan"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/minuman"
+        android:orderInCategory="30"
+        android:title="minuman"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pengguna"
+        android:orderInCategory="30"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/app_user"
+        app:showAsAction="ifRoom" />
+
+
+</menu>
